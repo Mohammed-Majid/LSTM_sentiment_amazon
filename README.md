@@ -11,7 +11,9 @@
 
 - This project is a sentiment analysis application that was built using amazon product review datasets. 
 - It uses a Long Short-Term Memory (LSTM) neural network to predict the sentiment (positive or negative) of a given review.
-- The application was built using TensorFlow and Streamlit, effectively making it a full stack deep learning project. 
+- The application was built using TensorFlow and Streamlit, effectively making it a full stack deep learning project.
+  
+<img width="839" alt="Screen Shot 2024-07-23 at 10 45 27 AM" src="https://github.com/user-attachments/assets/85d55ce4-0d39-4ce8-8ead-157c04e0d199">
 
 ## Features
 
